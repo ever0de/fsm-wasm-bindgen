@@ -1,0 +1,6 @@
+[package]
+name = "fsm-wasm-bindgen"
+version.workspace = true
+version.edition = true
+
+[dependencies]
