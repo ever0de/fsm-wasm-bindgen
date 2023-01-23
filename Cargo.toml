@@ -1,5 +1,5 @@
 [workspace]
-members = ["fsm-wasm-bindgen"]
+members = ["fsm-wasm-bindgen", "helper-macros"]
 
 [workspace.package]
 version = "0.1.0"

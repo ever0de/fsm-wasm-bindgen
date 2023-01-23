@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "fsm-wasm-bindgen"
 version = "0.1.0"
+
+[[package]]
+name = "helper-macros"
+version = "0.1.0"
